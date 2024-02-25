@@ -54,7 +54,7 @@ def send_message():
         print("Button is working")
 root=tk.Tk()
 root.geometry("600x600")
-root.title('KommuniKate')
+root.title('Mahesh chittimeni')
 root.resizable(False, False)
 
 root.grid_rowconfigure(0, weight=1)
